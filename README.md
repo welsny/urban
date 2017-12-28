@@ -1,6 +1,6 @@
 ## *urban* 
 
-Look up slang definitions from the comfort of your favorite terminial:
+Simple script for looking up slang definitions from the comfort of your favorite terminial:
 
 ######
 ```bash
@@ -9,7 +9,7 @@ python urban.py bm
 > acronym for bad mannered, used by korean computer players. 
 ```
 
-I highly recommend using a [terminal alias](http://www.techradar.com/us/how-to/computing/apple/terminal-101-creating-aliases-for-commands-1305638) to improve usability:
+I reccommend adding the script to your $PATH to improve usability:
 
 ```bash
 urban hov
